@@ -1,0 +1,17 @@
+{
+  "resturant": [
+    {
+      "name": "sdsafdds",
+      "email": "dsfsdfds",
+      "address": "dsfsdfds",
+      "id": 2
+    },
+    {
+      "name": "rohan",
+      "email": "abc@gmail.com",
+      "address": "qqwewe",
+      "id": 3
+    }
+  ],
+  "user": []
+}
